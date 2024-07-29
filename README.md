@@ -19,6 +19,5 @@ im  undefined as azwle
 
     
 ## Other Common Github Profile Sections  
-👩‍💻 I'm currently working on ReactJS projects  
-    
+
 🧠 I'm currently learning front-end programing
