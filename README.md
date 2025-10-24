@@ -23,5 +23,3 @@ I'm currently learning front-end programming
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azcpcf&icon=0&color=0)](https://visitcount.itsvg.in)
-
-1 -> electron app npv tunnel
